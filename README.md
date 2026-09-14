@@ -1,2 +1,2 @@
 # CODEQUEST
-A retro 4-player collaborative web RPG where players solve coding challenges in real-time to defeat enemies and clear dungeons. Built for Hack Club Third Space.
+A retro-cyberpunk CLI RPG where players execute terminal commands alongside a 2D pixel-art visual stage to hack nodes, purge malware, and solve code puzzles.
